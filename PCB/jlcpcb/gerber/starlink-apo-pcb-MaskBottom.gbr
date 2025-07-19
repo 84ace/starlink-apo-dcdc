@@ -1,0 +1,34 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.1*%
+%TF.CreationDate,2025-07-19T16:42:16+10:00*%
+%TF.ProjectId,starlink-apo-pcb,73746172-6c69-46e6-9b2d-61706f2d7063,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.1) date 2025-07-19 16:42:16*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,4.400000X1.800000*%
+%ADD11O,4.000000X1.800000*%
+%ADD12O,1.800000X4.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J2*%
+X150000000Y-68200000D03*
+D11*
+X150000000Y-74000000D03*
+D12*
+X154800000Y-71200000D03*
+%TD*%
+D10*
+%TO.C,J1*%
+X106400000Y-68250000D03*
+D11*
+X106400000Y-74050000D03*
+D12*
+X111200000Y-71250000D03*
+%TD*%
+M02*
